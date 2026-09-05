@@ -1,2 +1,1 @@
 # gitabyz
-AbyzVault Standalone Distribution
